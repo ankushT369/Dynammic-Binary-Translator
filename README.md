@@ -1,1 +1,2 @@
 # Dynammic-Binary-Translator
+Converts x86 bin to ARM bin
